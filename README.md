@@ -1,4 +1,4 @@
-## Hi/Hola there 👋 I am **Hildely/Hildely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi/Hola there 👋 I am **Hildely/Hildely** 
 
 Here are some ideas to get you started:
 
